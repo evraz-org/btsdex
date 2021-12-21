@@ -1,6 +1,6 @@
 # btsdex
 
-Package for work with BitShares DEX.
+Package for work with EVRAZ DEX on BitShares blockchain.
 The main class in the package is `BitShares`. All you need is in it. There are a couple more helper classes, but they are not really designed for use outside of the `BitShares` class.
 
 The `BitShares` class consists of static methods intended for working with the BitShares public blockchain API. Using the BitShares class, you can create an object whose methods provide access to the private part of the BitShares blockchain API.
